@@ -1,0 +1,12 @@
+/.bundle
+vendor/bundle
+/tmp/*
+!tmp/.keep
+
+!/tmp/unicorn/
+/tmp/unicorn/*
+!/tmp/unicorn/.keep
+
+!/tmp/puma/
+/tmp/puma/*
+!/tmp/puma/.keep
